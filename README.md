@@ -2,49 +2,41 @@
 
 **Computational Scientist (Genomics PhD) · Statistical Modelling · Deep Learning → Quant Research**, Paris
 
-I build statistical and deep-learning models for sparse, noisy, high-dimensional biological data. Alongside this,
-I'm training in quantitative finance and working on independent projects in that field.
+I build statistical and deep-learning models for sparse, noisy, high-dimensional biological data, and I'm training
+in quantitative finance through independent projects.
 
-- **PhD, University of Toronto**, plus 3 years of post-PhD research on large-scale sequencing data across
-  international consortia
-- **Deep generative models for single-cell data:** I designed CycLite, a PyTorch variational autoencoder that infers
-  a latent circular phase and a latent state from sparse count data (Institut Curie, manuscript in preparation)
+- **PhD, University of Toronto**, then 3 years of research on large-scale sequencing data across international
+  consortia
+- **Deep generative models:** CycLite, a PyTorch variational autoencoder that infers a latent circular phase from
+  sparse single-cell counts (Institut Curie, manuscript in preparation)
 - **Six peer-reviewed papers,** including a first-author paper in *Genome Research* (2025)
   ([code](https://github.com/wilsonlabgroup/NFKB-Transposon-Analysis))
-- **Quantitative finance training:** M.Sc. in Financial Engineering at WorldQuant University (in progress;
-  coursework in stochastic modelling, derivative pricing and financial econometrics). I also teach Python for
-  financial data analysis to Master's finance students at SKEMA Business School.
+- **Quantitative finance:** M.Sc. in Financial Engineering, WorldQuant University (in progress); I teach Python for
+  financial data analysis to Master's students at SKEMA Business School
 
 ---
 
 #### Independent quantitative finance projects
 
-**[inverse-vol-futures-overlay](https://github.com/lwang-genomics/inverse-vol-futures-overlay)**: a walk-forward
-study of inverse-volatility multi-asset books with a volatility-targeted futures overlay (2001–2026). It focuses on
-which conclusions survive robustness testing: realistic rebalancing and costs, ex-ante risk matching,
-block-bootstrap confidence intervals, sub-period and drop-one-asset tests, and a unit-tested engine with an
-explicit no-look-ahead test. [Report (PDF)](https://github.com/lwang-genomics/inverse-vol-futures-overlay/blob/main/report/inverse_vol_futures_overlay.pdf)
+- **[trend-following-replication](https://github.com/lwang-genomics/trend-following-replication)**: two CFM papers
+  on trend following replicated on free data, compared with Clenow's practitioner rules on 62 daily futures, and
+  tested as a tail-protection overlay.
+  [Report](https://github.com/lwang-genomics/trend-following-replication/blob/main/report/trend_following_replication.pdf)
+- **[inverse-vol-futures-overlay](https://github.com/lwang-genomics/inverse-vol-futures-overlay)**:
+  inverse-volatility multi-asset portfolios with a volatility-targeted futures overlay, and which conclusions survive
+  robustness testing.
+  [Report](https://github.com/lwang-genomics/inverse-vol-futures-overlay/blob/main/report/inverse_vol_futures_overlay.pdf)
 
-**[trend-following-replication](https://github.com/lwang-genomics/trend-following-replication)**: a replication of
-Lempérière et al. (2014), "Two centuries of trend following", on free public data. It reproduces the paper's main
-statistics (Sharpe 0.74 vs 0.78 published, 1960–2013) and tests the result on the twelve years after publication.
-It also documents three data traps: monthly averaging, administered prices and interpolated history. A second part
-runs the core model of A. Clenow's *Following the Trend* next to the paper's signal on 62 daily futures, net of
-costs. The two turn out to be mostly the same bet (correlation 0.83); the practitioner's stop changes drawdowns and
-skew rather than the edge. A third part replicates Dao et al. (2016) on trend convexity and tests trend as an overlay
-on the inverse-vol portfolio above: at equal risk it improves Sharpe, drawdown and skew, and protects in slow bear
-markets but not in few-week crashes, where puts do better at a higher cost.
-[Report (PDF)](https://github.com/lwang-genomics/trend-following-replication/blob/main/report/trend_following_replication.pdf)
-
-#### Methods used in my research
+#### Methods and tools
 
 - **Statistics and machine learning:** variational inference, VAEs (PyTorch), Monte Carlo simulation, PCA/SVD
 - **Engineering:** Python, R, Shell · Git, Snakemake, Singularity, Linux HPC (SLURM) · uv
 
 #### Genomics pipelines
 
-[NGS_pipeline_sn](https://github.com/lwang-genomics/NGS_pipeline_sn) (a modular Snakemake pipeline for RNA-seq,
-ChIP-seq and ATAC-seq) · [NGS_pipeline](https://github.com/lwang-genomics/NGS_pipeline) ·
-[RRBS_pipeline](https://github.com/lwang-genomics/RRBS_pipeline) · [Amplicon_analysis](https://github.com/lwang-genomics/Amplicon_analysis)
+[NGS_pipeline_sn](https://github.com/lwang-genomics/NGS_pipeline_sn) (modular Snakemake pipeline for RNA-, ChIP- and
+ATAC-seq) · [NGS_pipeline](https://github.com/lwang-genomics/NGS_pipeline) ·
+[RRBS_pipeline](https://github.com/lwang-genomics/RRBS_pipeline) ·
+[Amplicon_analysis](https://github.com/lwang-genomics/Amplicon_analysis)
 
 [LinkedIn](https://www.linkedin.com/in/liangxi-wang-89062811a)
