@@ -1,6 +1,6 @@
 ### Liangxi (Dale) Wang
 
-**Computational scientist · Statistical modelling · Deep learning**, Paris
+**Computational Scientist (Genomics PhD) · Statistical Modelling · Deep Learning → Quant Research**, Paris
 
 I build statistical and deep-learning models for sparse, noisy, high-dimensional data, and I'm applying
 them to quantitative finance.
