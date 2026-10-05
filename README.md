@@ -31,7 +31,9 @@ statistics (Sharpe 0.74 vs 0.78 published, 1960–2013) and tests the result on 
 It also documents three data traps: monthly averaging, administered prices and interpolated history. A second part
 runs the core model of A. Clenow's *Following the Trend* next to the paper's signal on 62 daily futures, net of
 costs. The two turn out to be mostly the same bet (correlation 0.83); the practitioner's stop changes drawdowns and
-skew rather than the edge.
+skew rather than the edge. A third part replicates Dao et al. (2016) on trend convexity and tests trend as an overlay
+on the inverse-vol portfolio above: at equal risk it improves Sharpe, drawdown and skew, and protects in slow bear
+markets but not in few-week crashes, where puts do better at a higher cost.
 [Report (PDF)](https://github.com/lwang-genomics/trend-following-replication/blob/main/report/trend_following_replication.pdf)
 
 #### Methods used in my research
