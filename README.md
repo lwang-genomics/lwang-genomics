@@ -28,7 +28,10 @@ explicit no-look-ahead test. [Report (PDF)](https://github.com/lwang-genomics/in
 **[trend-following-replication](https://github.com/lwang-genomics/trend-following-replication)**: a replication of
 Lempérière et al. (2014), "Two centuries of trend following", on free public data. It reproduces the paper's main
 statistics (Sharpe 0.74 vs 0.78 published, 1960–2013) and tests the result on the twelve years after publication.
-It also documents three data traps: monthly averaging, administered prices and interpolated history.
+It also documents three data traps: monthly averaging, administered prices and interpolated history. A second part
+runs the core model of A. Clenow's *Following the Trend* next to the paper's signal on 62 daily futures, net of
+costs. The two turn out to be mostly the same bet (correlation 0.83); the practitioner's stop changes drawdowns and
+skew rather than the edge.
 [Report (PDF)](https://github.com/lwang-genomics/trend-following-replication/blob/main/report/trend_following_replication.pdf)
 
 #### Methods used in my research
