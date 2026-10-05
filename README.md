@@ -10,6 +10,7 @@ I'm training in quantitative finance and working on independent projects in that
 - **Deep generative models for single-cell data:** I designed CycLite, a PyTorch variational autoencoder that infers
   a latent circular phase and a latent state from sparse count data (Institut Curie, manuscript in preparation)
 - **Six peer-reviewed papers,** including a first-author paper in *Genome Research* (2025)
+  ([code](https://github.com/wilsonlabgroup/NFKB-Transposon-Analysis))
 - **Quantitative finance training:** M.Sc. in Financial Engineering at WorldQuant University (in progress;
   coursework in stochastic modelling, derivative pricing and financial econometrics). I also teach Python for
   financial data analysis to Master's finance students at SKEMA Business School.
