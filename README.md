@@ -5,7 +5,7 @@
 I build statistical and deep-learning models for sparse, noisy, high-dimensional biological data, and I'm training
 in quantitative finance through independent projects.
 
-- **PhD, University of Toronto**, then 3 years of research on large-scale sequencing data across international
+- **PhD in computational genomics, University of Toronto**, then 3 years of research on large-scale sequencing data across international
   consortia
 - **Deep generative models:** CycLite, a PyTorch variational autoencoder that infers a latent circular phase from
   sparse single-cell counts (Institut Curie, manuscript in preparation)
