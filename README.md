@@ -11,8 +11,8 @@ in quantitative finance through independent projects.
   sparse single-cell counts (Institut Curie, manuscript in preparation)
 - **Six peer-reviewed papers,** including a first-author paper in *Genome Research* (2025)
   ([code](https://github.com/wilsonlabgroup/NFKB-Transposon-Analysis))
-- **Quantitative finance:** M.Sc. in Financial Engineering, WorldQuant University (in progress); I teach Python for
-  financial data analysis to Master's students at SKEMA Business School
+- **Quantitative finance:** M.Sc. in Financial Engineering, WorldQuant University (in progress); I teach Python
+  programming for finance to Master's students at SKEMA Business School
 
 ---
 
