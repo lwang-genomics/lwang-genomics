@@ -7,7 +7,7 @@ in quantitative finance through independent projects.
 
 - **PhD in computational genomics, University of Toronto**, then 3 years of research on large-scale sequencing data across international
   consortia
-- **Deep generative models:** CycLite, a PyTorch variational autoencoder that infers a latent circular phase from
+- **Deep generative models:** GyreVI, a PyTorch variational autoencoder that infers a latent circular phase from
   sparse single-cell counts (Institut Curie, manuscript in preparation)
 - **Six peer-reviewed papers,** including a first-author paper in *Genome Research* (2025)
   ([code](https://github.com/wilsonlabgroup/NFKB-Transposon-Analysis))
