@@ -7,8 +7,8 @@ in quantitative finance through independent projects.
 
 - **PhD in computational genomics, University of Toronto**, then 3 years of research on large-scale sequencing data across international
   consortia
-- **Deep generative models:** [GyreVI](https://github.com/lwang-genomics/gyrevi), a PyTorch variational autoencoder that infers a latent circular phase from
-  sparse single-cell counts (Institut Curie, manuscript in preparation)
+- **Deep generative models:** [GyreVI](https://github.com/lwang-genomics/gyrevi), a PyTorch variational autoencoder that jointly infers cyclical
+  dynamics and cellular state from single-cell RNA-seq data (Institut Curie, manuscript in preparation)
 - **Six peer-reviewed papers,** including a first-author paper in *Genome Research* (2025)
   ([code](https://github.com/wilsonlabgroup/NFKB-Transposon-Analysis))
 - **Quantitative finance:** M.Sc. in Financial Engineering, WorldQuant University (in progress); I teach Python
