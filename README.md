@@ -18,13 +18,12 @@ in quantitative finance through independent projects.
 
 #### Independent quantitative finance projects
 
-- **[trend-following-replication](https://github.com/lwang-genomics/trend-following-replication)**: two CFM papers
-  on trend following replicated on free data, compared with Clenow's practitioner rules on 62 daily futures, and
-  tested as a tail-protection overlay.
+- **[trend-following-replication](https://github.com/lwang-genomics/trend-following-replication)**: CFM's
+  trend-following papers replicated and Clenow's rules tested on free data; as an overlay, trend lifts a
+  multi-asset portfolio's Sharpe from 0.66 to 0.99.
   [Report](https://github.com/lwang-genomics/trend-following-replication/blob/main/report/trend_following_replication.pdf)
 - **[inverse-vol-futures-overlay](https://github.com/lwang-genomics/inverse-vol-futures-overlay)**:
-  inverse-volatility multi-asset portfolios with a volatility-targeted futures overlay, and which conclusions survive
-  robustness testing.
+  walk-forward inverse-vol portfolios at a 10% volatility target, with robustness tests.
   [Report](https://github.com/lwang-genomics/inverse-vol-futures-overlay/blob/main/report/inverse_vol_futures_overlay.pdf)
 
 #### Methods and tools
